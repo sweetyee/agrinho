@@ -10,7 +10,7 @@ body
 {
     font-family: Arial, sans-serif;
     background: rgb(241, 93, 157);
-background: radial-gradient(circle, rgb(241, 103, 163) 0%, rgb(137, 186, 242) 100%);
+background: radial-gradient(circle, rgb(241, 103, 163) 0%, rgba(124, 132, 241, 0.814) 100%);
 }
 
 /* Estilo para o cabeçalho da página */
