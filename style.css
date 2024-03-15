@@ -9,8 +9,8 @@ body
 
 {
     font-family: Arial, sans-serif;
-    background: rgb(238,174,202);
-background: radial-gradient(circle, rgba(238,174,202,1) 0%, rgba(148,187,233,1) 100%);
+    background: rgb(241, 93, 157);
+background: radial-gradient(circle, rgb(241, 103, 163) 0%, rgb(137, 186, 242) 100%);
 }
 
 /* Estilo para o cabeçalho da página */
