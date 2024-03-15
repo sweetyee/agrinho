@@ -104,8 +104,7 @@ a {
 }
 .foto1{
     width: 40%;
-    left: auto;
-    right: auto;
+    text-align: center;
 }
 .foto2{
     width: 40%;
