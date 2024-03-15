@@ -7,7 +7,8 @@
 /* Estilo padrão do corpo da página */
 body {
     font-family: Arial, sans-serif;
-    background-color: rgb(58, 171, 92);
+    background: rgb(63, 94, 251);
+    background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgba(252, 70, 107, 1) 100%);
 }
 
 /* Estilo para o cabeçalho da página */
