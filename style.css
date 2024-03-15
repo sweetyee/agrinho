@@ -104,4 +104,6 @@ a {
 }
 .foto1{
     width: 40%;
+    left: auto;
+    right: auto;
 }
