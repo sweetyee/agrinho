@@ -30,7 +30,6 @@ header {
     background: linear-gradient(90deg, rgba(223, 7, 115, 1) 0%, rgba(195, 64, 195, 1) 18%, rgba(223, 16, 172, 0.9878326330532213) 54%, rgba(188, 33, 194, 1) 75%, rgba(234, 23, 181, 1) 91%, rgba(255, 0, 174, 1) 100%); /* Define um fundo degradê linear */
     text-align: center; /* Centraliza o texto */
     padding: 0px 0; /* Remove o preenchimento horizontal */
-    position: fixed; /* Define a posição fixa */
     top: 0; /* Alinha o topo do cabeçalho com o topo da janela do navegador */
     width: 100%; /* Define a largura como 100% para ocupar toda a largura da tela */
     z-index: 100; /* Define uma pilha de z-index para garantir que o cabeçalho esteja acima de outros elementos */
